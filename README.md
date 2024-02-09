@@ -1,4 +1,5 @@
-
+# run inference with e2mip
+testing
 # Deep Learning Earth System Modelling 
 
 This repository uses publically available datasets to create models of the Earth system. Our focus is on modular and customizable models that allow rapid development and experimentation. Compared to other popular models, ours are small. They can train in a few days on small ML clusters. 
